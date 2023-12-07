@@ -61,6 +61,7 @@
 		<a href="${ctp}/btom/b5">b5호출</a> |
 		<a href="${ctp}/btom/b6">b6호출</a> |
 		<a href="${ctp}/btom/b7">b7호출</a> |
+		<a href="${ctp}/btom/b8">b8호출</a> |
 	</p>
 	<hr/>
 	<p>

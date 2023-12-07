@@ -28,7 +28,10 @@
 		<div class="col-2"><img src="${ctp}/pds/4.png" width="150px" /></div>
 		<div class="col-2"><img src="${ctp}/images/pds/5.png" width="150px" /></div>
 	</div>
-	
+	<hr/>
+	<div>
+	  	<a href="${ctp}/" class="btn btn-warning">Home</a>
+	</div>
 </div>
 <p><br/></p>
 </body>
